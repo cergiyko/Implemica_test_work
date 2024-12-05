@@ -14,5 +14,4 @@ class NumbersOfBracketsTest {
         assertEquals(5,NumbersOfBrackets.determineTheNumber(3));
         assertEquals(14,NumbersOfBrackets.determineTheNumber(4));
     }
-
 }
